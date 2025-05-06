@@ -22,7 +22,7 @@ This is a **browser-based, multi-threaded MD5 hash cracker** built using JavaScr
 
 You can try the cracker directly in your browser:
 
-👉 [**Click to Try Live**](https://your-github-username.github.io/md5-password-cracker/)  
+👉 [**Click to Try Live**](https://yantongggg.github.io/md5-password-cracker/)  
 *(Make sure you enable GitHub Pages in the repo settings)*
 
 ---
