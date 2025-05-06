@@ -30,5 +30,5 @@ You can try the cracker directly in your browser:
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/md5-password-cracker.git
+   git clone https://github.com/yantongggg/md5-password-cracker.git
    cd md5-password-cracker
