@@ -4,7 +4,7 @@ A browser-based **MD5 password cracker** that uses **Web Workers for parallel br
 Tracks real-time **progress**, **heartbeats**, **ETA**, and detects **hash type** automatically.  
 Designed for **educational** and **demonstration** purposes only.
 
-![screenshot](docs/demo_screenshot.png)
+![Demo](./DemoCrack.png)
 
 ## ⚙️ Features
 
@@ -19,9 +19,9 @@ Designed for **educational** and **demonstration** purposes only.
 
 ---
 
-## 🖥️ Demo
+## 🖥️ Demo (GitHub Pages)
 
-Try it here: [yantongggg.github.io/MD5-password-cracker](https://yantongggg.github.io/MD5-password-cracker)
+▶️ [Click here to try it](https://yantongggg.github.io/MD5-password-cracker)
 
 ---
 
@@ -29,7 +29,7 @@ Try it here: [yantongggg.github.io/MD5-password-cracker](https://yantongggg.gith
 
 | Cracking Progress | Heartbeat Monitor |
 |------------------|-------------------|
-| ![Progress](docs/progress.png) | ![Heartbeat](docs/heartbeat.png) |
+| ![Progress](./Progress.png) | ![Heartbeat](./Hearbeat.png) |
 
 ---
 
@@ -55,7 +55,7 @@ Try it here: [yantongggg.github.io/MD5-password-cracker](https://yantongggg.gith
 
 ---
 
-## 🚫 Disclaimer
+## ⚠️ Disclaimer
 
 This tool is for **educational purposes** only.  
 Do **not** use it for unauthorized access or malicious activities.  
@@ -65,5 +65,5 @@ Always respect privacy and legal boundaries.
 
 ## 🪪 License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License](./LICENSE).  
 Feel free to use, modify, and distribute it for personal or commercial purposes.
